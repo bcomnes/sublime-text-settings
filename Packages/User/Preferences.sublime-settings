@@ -1,0 +1,52 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/TronLegacy (SL).tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".env",
+		"coverage"
+	],
+	"font_options":
+	[
+		"directwrite",
+		"subpixel_antialias",
+		"no_round"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Pylinter",
+		"Terminal",
+		"Alignment",
+		"LaTeX-cwl",
+		"Markdown Preview",
+		"Arduino-like IDE",
+		"Vintage",
+		"Generic Config",
+		"RestructuredText",
+		"Python PEP8 Autoformat"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}

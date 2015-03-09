@@ -1,0 +1,7 @@
+{
+  "indent_size": 2,
+  "format_on_save": true,
+  "use_original_indentation": true,
+  "space_after_anon_function": true,
+  "space_after_function": true
+}

@@ -1,0 +1,12 @@
+{
+	"enable_table_editor": true,
+	"extensions":
+	[
+		"rst"
+	],
+	"table_editor_syntax": "reStructuredText",
+  "color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+  "tab_size": 4,
+  "draw_white_space": "all",
+  "rulers": [80]
+}

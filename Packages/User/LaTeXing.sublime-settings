@@ -1,0 +1,21 @@
+{
+  "pdf_viewer_windows": {
+    "adobe_reader": [
+      "D:\\Program Files\\Adobe\\Reader 11.0\\Reader\\AcroRd32.exe",
+      "D:\\Program Files (x86)\\Adobe\\Reader 11.0\\Reader\\AcroRd32.exe"
+    ],
+    "foxit_reader": [
+      "D:\\Program Files\\Foxit Software\\Foxit Reader\\Foxit Reader.exe",
+      "D:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\Foxit Reader.exe"
+    ],
+    "pdf_xchange_viewer": [
+      "D:\\Program Files\\Tracker Software\\PDF Viewer\\PDFXCview.exe",
+      "D:\\Program Files (x86)\\Tracker Software\\PDF Viewer\\PDFXCview.exe"
+    ],
+    "sumatra_pdf": [
+      "D:\\Program Files\\SumatraPDF\\SumatraPDF.exe",
+      "D:\\Program Files (x86)\\SumatraPDF\\SumatraPDF.exe"
+    ]
+  },
+  "output_directory": true
+}
