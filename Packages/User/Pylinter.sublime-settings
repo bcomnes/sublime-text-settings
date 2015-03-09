@@ -1,0 +1,8 @@
+{
+  "python_path": ["/usr/local/bin/"],
+  "pylint_path": "/usr/local/bin/pylint",
+  "use_icons": true,
+  "run_on_save": true,
+  "message_stay": true,
+  "disable_outline": true
+}

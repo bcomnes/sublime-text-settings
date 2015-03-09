@@ -1,0 +1,7 @@
+{ 
+  "gitx": [
+    "/usr/bin/gitx",
+    "/usr/local/bin/gitx",
+    "/Users/bcomnes/homebrew/bin/gitx"
+  ]
+}
