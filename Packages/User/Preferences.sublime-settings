@@ -27,16 +27,17 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Pylinter",
-		"Terminal",
-		"Alignment",
-		"LaTeX-cwl",
-		"Markdown Preview",
-		"Arduino-like IDE",
-		"Vintage",
-		"Generic Config",
 		"RestructuredText",
-		"Python PEP8 Autoformat"
+		"jsfmt",
+		"LaTeX-cwl",
+		"Arduino-like IDE",
+		"Pylinter",
+		"Alignment",
+		"Markdown Preview",
+		"Python PEP8 Autoformat",
+		"Generic Config",
+		"Terminal",
+		"Vintage"
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
