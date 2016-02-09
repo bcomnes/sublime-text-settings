@@ -4,6 +4,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/TronLegacy (SL).tmTheme",
+	"detect_slow_plugins": true,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -27,16 +28,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Pylinter",
-		"Terminal",
-		"Alignment",
-		"LaTeX-cwl",
-		"Markdown Preview",
-		"Arduino-like IDE",
-		"Vintage",
-		"Generic Config",
 		"RestructuredText",
-		"Python PEP8 Autoformat"
+		"Vintage"
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,

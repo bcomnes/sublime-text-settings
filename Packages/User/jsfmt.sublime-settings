@@ -1,27 +1,28 @@
 {
-  "alert-errors": true,
-  "autoformat": true,
-  "extensions":
-  [
-    "js",
-    "sublime-settings"
-  ],
-  "node-path": "node",
-  "options":
-  {
-    "plugins": [
-      "esformatter-standard"
-    ]
-  },
-  "options-JSON":
-  {
-    "plugins":
-    [
-      "esformatter-quotes"
-    ],
-    "quotes":
-    {
-      "type": "double"
-    }
-  }
+	"alert-errors": true,
+	"autoformat": false,
+	"extensions":
+	[
+		"js",
+		"sublime-settings"
+	],
+	"node-path": "node",
+	"options":
+	{
+		"plugins":
+		[
+			"esformatter-standard"
+		]
+	},
+	"options-JSON":
+	{
+		"plugins":
+		[
+			"esformatter-quotes"
+		],
+		"quotes":
+		{
+			"type": "double"
+		}
+	}
 }
