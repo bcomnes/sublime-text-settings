@@ -28,7 +28,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"RestructuredText",
+		"OmniMarkupPreviewer",
 		"Vintage"
 	],
 	"line_padding_bottom": 0,
