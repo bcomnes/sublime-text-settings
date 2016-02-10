@@ -24,11 +24,12 @@
 		"subpixel_antialias",
 		"no_round"
 	],
-	"font_size": 14,
+	"font_size": 17,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"OmniMarkupPreviewer",
+		"RestructuredText",
 		"Vintage"
 	],
 	"line_padding_bottom": 0,
