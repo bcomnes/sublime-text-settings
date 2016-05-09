@@ -1,5 +1,38 @@
 {
-	"ann": "a16.01.09-1",
-	"install_version": "r16.01.09-1",
-	"version": "r16.01.09-1"
+	"9o.hist./Users/bret/go/src/github.com/bcomnes/helloworld":
+	[
+		"run"
+	],
+	"9o.hist./Users/bret/go/src/github.com/bcomnes/lissajous":
+	[
+		"run",
+		"go vet",
+		"go run",
+		"go run main.go"
+	],
+	"9o.hist./Users/bret/go/src/github.com/goinaction/code/chapter2/sample":
+	[
+		"go run main",
+		"go get",
+		"go run main.go",
+		"help",
+		"build",
+		"run",
+		"clear",
+		"tskill",
+		"settings",
+		"env"
+	],
+	"9o.hist./Users/bret/go/src/github.com/kardianos/govendor":
+	[
+		"list"
+	],
+	"9o.hist./Users/bret/go/src/gopl.io/ch1/echo1":
+	[
+		"go run",
+		"go run boop"
+	],
+	"ann": "a16.05.07-1",
+	"install_version": "r16.05.07-1",
+	"version": "r16.05.07-1"
 }

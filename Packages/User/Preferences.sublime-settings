@@ -1,4 +1,12 @@
 {
+	"added_words":
+	[
+		"vendoring",
+		"vendored",
+		"unvendored",
+		"Metadata",
+		"metadata"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
@@ -24,11 +32,10 @@
 		"subpixel_antialias",
 		"no_round"
 	],
-	"font_size": 17,
+	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"OmniMarkupPreviewer",
 		"RestructuredText",
 		"Vintage"
 	],

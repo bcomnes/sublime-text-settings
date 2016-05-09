@@ -2,5 +2,6 @@
   "env": {
     "PATH": "$HOME/go/bin:$PATH",
     "GOPATH": "$HOME/go"
-  }
+  },
+  "gslint_enabled": false
 }

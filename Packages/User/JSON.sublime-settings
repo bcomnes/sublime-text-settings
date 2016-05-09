@@ -4,7 +4,9 @@
 	"extensions":
 	[
 		"json",
-		"sublime-settings"
+		"sublime-settings",
+		"sublime-project"
 	],
-	"tab_size": 2
+	"tab_size": 2,
+	"word_wrap": true
 }
