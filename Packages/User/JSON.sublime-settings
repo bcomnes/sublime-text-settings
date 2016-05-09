@@ -5,7 +5,8 @@
 	[
 		"json",
 		"sublime-settings",
-		"sublime-project"
+		"sublime-project",
+		"sublime_session"
 	],
 	"tab_size": 2,
 	"word_wrap": true
