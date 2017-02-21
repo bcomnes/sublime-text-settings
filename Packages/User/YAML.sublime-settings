@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"YAML-tmLanguage"
+		"YAML-tmLanguage",
+		"YAML-tmTheme"
 	]
 }

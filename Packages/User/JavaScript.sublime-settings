@@ -2,6 +2,11 @@
 	"extensions":
 	[
 	],
-  "draw_white_space": "all"
+  "draw_white_space": "all",
+  "rulers":
+  [
+    80,
+    119
+  ]
   //"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme"
 }

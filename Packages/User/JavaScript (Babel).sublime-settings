@@ -2,5 +2,11 @@
 	"extensions":
 	[
 		"js"
-	]
+	],
+  "draw_white_space": "all",
+  "rulers":
+  [
+    80,
+    119
+  ]
 }

@@ -1,0 +1,5 @@
+{
+  "style": "Filled",
+  "ha_style": "Filled",
+  "file_exts": [".css", ".sass", ".scss", ".less", ".styl", ".html", ".js", ".sublime-settings", ".tmTheme", ".erb", ".haml", ".back", ".py", ".md", ".YAML-tmTheme"],
+}

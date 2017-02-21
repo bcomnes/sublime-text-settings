@@ -1,4 +1,5 @@
 {
+	"check_version": true,
 	"format_on_save": true,
-	"loud_error": false
+	"logging_on_view_change": true
 }
