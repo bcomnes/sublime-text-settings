@@ -42,12 +42,30 @@
 		"Hypermodular",
 		"Comnes"
 	],
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"bundle/**"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/TronLegacy (SL).tmTheme",
 	"detect_slow_plugins": true,
+	"draw_centered": true,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -67,7 +85,7 @@
 		"subpixel_antialias",
 		"no_round"
 	],
-	"font_size": 16,
+	"font_size": 17,
 	"highlight_line": true,
 	"ignored_packages":
 	[
