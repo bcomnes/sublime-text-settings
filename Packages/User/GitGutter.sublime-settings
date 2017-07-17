@@ -1,0 +1,7 @@
+{
+  "non_blocking": true,
+  "live_mode": true,
+  "show_markers_on_untracked_file": true,
+  "patience": true,
+   "diff_popup_default_mode": "diff"
+}

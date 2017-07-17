@@ -176,7 +176,7 @@
 			},
 			"standard":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -231,7 +231,7 @@
 		"tooltip_theme_excludes":
 		[
 		],
-		"tooltips": false,
+		"tooltips": true,
 		"warning_color": "DDB700",
 		"wrap_find": true
 	}
