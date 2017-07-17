@@ -79,6 +79,7 @@
 				[
 					"--linter=vet:go tool vet -printfuncs=Infof,Debugf,Warningf,Errorf,Criticalf {path}/*.go:PATH:LINE:MESSAGE",
 					"--disable=dupl",
+					"--disable=gotype",
 					"--tests",
 					"--cyclo-over=15",
 					"--fast"
@@ -225,6 +226,12 @@
 			"php": "html",
 			"python django": "python"
 		},
+		"tooltip_fontsize": "1rem",
+		"tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+		"tooltip_theme_excludes":
+		[
+		],
+		"tooltips": false,
 		"warning_color": "DDB700",
 		"wrap_find": true
 	}
