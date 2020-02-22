@@ -1,0 +1,15 @@
+{
+  "configurations": {
+        "Javascript Custom": {
+          "custom_templates": {
+                "tags": {
+                    "css": "scope:source.css",
+                    "csjs": "scope:source.css",
+                    "(s) => ":  "scope:source.css",
+                    "html": "scope:text.html.basic",
+                    "this.html": "scope:text.html.basic",
+                }
+            }
+        }
+    }
+}

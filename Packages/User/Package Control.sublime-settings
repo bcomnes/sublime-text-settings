@@ -1,0 +1,47 @@
+{
+	"bootstrapped": true,
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"ayu",
+		"BracketHighlighter",
+		"CMake",
+		"DocBlockr",
+		"Extract Sublime Package",
+		"Gofmt",
+		"Golang Build",
+		"INI",
+		"InsertDate",
+		"JavaScriptNext - ES6 Syntax",
+		"JSCustom",
+		"JSON Key-Value",
+		"LESS",
+		"Package Control",
+		"PackageDev",
+		"Protobuf Syntax Hightlighting",
+		"ScopeHunter",
+		"SideBarEnhancements",
+		"StandardFormat",
+		"StandardSnippets",
+		"SublimeLinter",
+		"SublimeLinter-clang",
+		"SublimeLinter-contrib-semistandard",
+		"SublimeLinter-contrib-standard",
+		"SublimeLinter-eslint",
+		"SublimeLinter-golangcilint",
+		"SublimeLinter-golint",
+		"SublimeLinter-gotype",
+		"SublimeLinter-govet",
+		"Terraform",
+		"Theme - Spacegray",
+		"TOML",
+		"Tron Color Scheme",
+		"TypeScript",
+		"WebAssembly Text Syntax"
+	]
+}

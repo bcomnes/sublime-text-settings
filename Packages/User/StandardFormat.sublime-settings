@@ -1,0 +1,16 @@
+{
+	"commands":
+	[
+		[
+			"standard",
+			"--stdin",
+			"--fix"
+		],
+		[
+			"semistandard",
+			"--stdin",
+			"--fix"
+		]
+	],
+	"format_on_save": true
+}

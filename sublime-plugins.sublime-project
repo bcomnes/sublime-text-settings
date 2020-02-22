@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "Packages/Tron Color Scheme"
+		},
+		{
+			"path": "Packages/SublimeLinter-contrib-standard"
+		},
+		{
+			"path": "Packages/StandardFormat"
+		}
+	]
+}

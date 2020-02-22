@@ -1,0 +1,20 @@
+.DS_Store
+#Stuff you dont want to sync
+Backup
+Cache
+Index
+Installed Packages
+Local
+
+# Package control recomended ignore files
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+
+/Packages/*
+!/Packages/User
+/Packages/User/*
+!/Packages/User/*.sublime-settings

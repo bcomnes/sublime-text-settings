@@ -1,0 +1,114 @@
+{
+	"added_words":
+	[
+		"passphrase",
+		"hyperdivision",
+		"plugin",
+		"Heimdall",
+		"Bitfinex's",
+		"plugins",
+		"stringified",
+		"heimdall",
+		"hui",
+		"css",
+		"html",
+		"Neocities",
+		"workflow",
+		"Github",
+		"neocities",
+		"anycast",
+		"geolocation",
+		"Netlify",
+		"Zeit",
+		"diffing",
+		"async",
+		"toolchain",
+		"deps",
+		"npm",
+		"bcomnes",
+		"workflows",
+		"github"
+	],
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"bundle/**",
+		"*.bundle.js",
+		"*.asar",
+		"dependencygraph.svg",
+		"Electron Framework"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/ayu/ayu-light.sublime-color-scheme",
+	"detect_slow_plugins": true,
+	"draw_centered": true,
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".env",
+		"coverage"
+	],
+	"font_face": "SF Mono",
+	"font_options":
+	[
+		"directwrite",
+		"subpixel_antialias",
+		"no_round"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"JavaScriptNext - ES6 Syntax",
+		"SublimeLinter-contrib-semistandard",
+		"SublimeLinter-eslint",
+		"SublimeLinter-golangcilint",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"node_modules",
+		"*.bundle.js"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"spacegray_fileicons": true,
+	"tab_size": 2,
+	"theme": "ayu-light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}
