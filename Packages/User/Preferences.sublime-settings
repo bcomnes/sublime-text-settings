@@ -86,6 +86,7 @@
 		"SublimeLinter-contrib-semistandard",
 		"SublimeLinter-eslint",
 		"SublimeLinter-golangcilint",
+		"TypeScript",
 		"Vintage"
 	],
 	"indent_guide_options":
