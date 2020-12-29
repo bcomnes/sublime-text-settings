@@ -8,6 +8,10 @@
                     "(s) => ":  "scope:source.css",
                     "html": "scope:text.html.basic",
                     "this.html": "scope:text.html.basic",
+                },
+                "comments": {
+                  "GraphQL": "scope:source.graphql",
+                  "gql": "scope:source.graphql"
                 }
             }
         }

@@ -10,7 +10,13 @@
 			"semistandard",
 			"--stdin",
 			"--fix"
-		]
+		],
+		["eslint_d", "--stdin", "--fix-to-stdout"]
+	],
+	"extensions":
+	[
+		"js",
+		"jsx"
 	],
 	"format_on_save": true
 }
