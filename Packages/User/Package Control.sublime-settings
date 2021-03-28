@@ -10,6 +10,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"All Autocomplete",
 		"AutoFileName",
 		"ayu",
@@ -53,12 +54,14 @@
 		"SublimeLinter-json",
 		"SublimeLinter-shellcheck",
 		"SublimeLinter-stylelint",
+		"SublimeLinter-tslint",
 		"Swift",
 		"Terraform",
 		"Theme - Spacegray",
 		"TOML",
 		"Tron Color Scheme",
 		"TypeScript",
+		"TypeScript Syntax",
 		"WebAssembly Text Syntax"
 	]
 }

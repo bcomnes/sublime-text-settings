@@ -46,7 +46,13 @@
 		"blog",
 		"defacto",
 		"refactor",
-		"pescatarian"
+		"pescatarian",
+		"Littlstar",
+		"hypercore",
+		"p2p",
+		"Bittorrent",
+		"codebase",
+		"dev"
 	],
 	"binary_file_patterns":
 	[
@@ -102,16 +108,19 @@
 		"subpixel_antialias",
 		"no_round"
 	],
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"A File Icon",
 		"ESLint-Formatter",
 		"JavaScriptNext - ES6 Syntax",
 		"SublimeLinter-contrib-semistandard",
 		"SublimeLinter-golangcilint",
+		"SublimeLinter-tslint",
 		"TypeScript",
-		"Vintage"
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"indent_guide_options":
 	[
