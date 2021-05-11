@@ -1,0 +1,8 @@
+// SublimeLinter Settings - User
+{
+  "linters": {
+    "eslint": {
+      "selector": "source.jsx, source.js - meta.attribute-with-value"
+    }
+  }
+}

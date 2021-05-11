@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		".stylelintrc"
-	]
+		".stylelintrc",
+		"json",
+	],
 }
