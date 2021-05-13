@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+const ${1:VARNAME} = /* GraphQL */`
+query ${2:QueryName} (\$where: JSON) {
+	${3}
+}
+`
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>gqq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js, source.jsx</scope>
+	<description>A new GraphQL query template tag</description>
+</snippet>
