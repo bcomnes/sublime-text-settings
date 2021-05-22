@@ -1,24 +1,14 @@
 {
 	"bootstrapped": true,
 	"ignore_vcs_packages": true,
-	"in_process_packages":
-	[
-	],
-	"install_prereleases":
-	[
-		"Babel"
-	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"All Autocomplete",
 		"AutoFileName",
 		"ayu",
-		"Babel",
 		"BracketHighlighter",
-		"CMake",
 		"DocBlockr",
-		"ESLint-Formatter",
 		"Extract Sublime Package",
 		"FileIcons",
 		"Gofmt",
@@ -26,7 +16,6 @@
 		"GraphQL",
 		"INI",
 		"InsertDate",
-		"JavaScriptNext - ES6 Syntax",
 		"JSCustom",
 		"JSON Key-Value",
 		"JsPrettier",
@@ -39,7 +28,7 @@
 		"LSP-html",
 		"LSP-json",
 		"LSP-typescript",
-		"MDX Syntax Highlighting",
+		"Meetio Theme",
 		"Package Control",
 		"PackageDev",
 		"Protobuf Syntax Hightlighting",
@@ -48,7 +37,6 @@
 		"StandardFormat",
 		"StandardSnippets",
 		"SublimeLinter",
-		"SublimeLinter-clang",
 		"SublimeLinter-contrib-semistandard",
 		"SublimeLinter-contrib-sqlint",
 		"SublimeLinter-contrib-standard",
@@ -69,8 +57,9 @@
 		"Theme - Spacegray",
 		"TOML",
 		"Tron Color Scheme",
-		"TypeScript",
-		"TypeScript Syntax",
 		"WebAssembly Text Syntax",
+	],
+	"in_process_packages":
+	[
 	],
 }

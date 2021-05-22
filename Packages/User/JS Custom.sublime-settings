@@ -17,25 +17,11 @@
       }
     }
   },
-  "jsx_close_tag": "source.js, source.ts, source.tsx, source.jsx",
-  "configurations": {
+  "configurations":
+  {
     "Default": {},
-    "React": {
-        "file_extensions": [ "js", "jsx" ],
-        "flow_types": true,
-        "jsx": true,
-        "scope": "source.jsx"
-    },
-    "TypeScript": {
-        "scope": "source.ts",
-        "file_extensions": [ "ts" ],
-        "typescript": true,
-    },
-    "TypeScript (JSX)": {
-        "scope": "source.tsx",
-        "file_extensions": [ "tsx" ],
-        "typescript": true,
-        "jsx": true
-    }
-  }
+    "React": {"file_extensions": ["js", "jsx"], "flow_types": true, "jsx": true, "scope": "source.jsx"},
+    "TypeScript": {"file_extensions": ["ts"], "scope": "source.ts", "typescript": true},
+    "TypeScript (JSX)": {"file_extensions": ["tsx"], "jsx": true, "scope": "source.tsx", "typescript": true}}
+
 }
