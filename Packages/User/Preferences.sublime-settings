@@ -114,7 +114,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"A File Icon",
 		"All Autocomplete",
 		"LSP-bash",
 		"LSP-css",
@@ -123,14 +122,10 @@
 		"LSP-graphql",
 		"LSP-html",
 		"LSP-json",
-		"Meetio Theme",
 		"Sublime-Linter-contrib-deno-lint",
 		"SublimeLinter-contrib-semistandard",
 		"SublimeLinter-contrib-standard",
-		"SublimeLinter-golangcilint",
 		"SublimeLinter-stylelint",
-		"SublimeLinter-tslint",
-		"Terminus",
 		"Vintage",
 		"zzz A File Icon zzz",
 	],
