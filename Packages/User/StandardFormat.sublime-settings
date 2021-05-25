@@ -22,6 +22,6 @@
 		"js",
 		"jsx"
 	],
-	"format_on_save": true,
+	"format_on_save": false,
 	"logging_on_view_change": false,
 }

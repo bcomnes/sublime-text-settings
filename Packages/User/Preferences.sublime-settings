@@ -115,6 +115,7 @@
 	"ignored_packages":
 	[
 		"A File Icon",
+		"All Autocomplete",
 		"LSP-bash",
 		"LSP-css",
 		"LSP-dockerfile",
@@ -122,8 +123,8 @@
 		"LSP-graphql",
 		"LSP-html",
 		"LSP-json",
-		"LSP-typescript",
 		"Meetio Theme",
+		"Sublime-Linter-contrib-deno-lint",
 		"SublimeLinter-contrib-semistandard",
 		"SublimeLinter-contrib-standard",
 		"SublimeLinter-golangcilint",

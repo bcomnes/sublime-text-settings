@@ -16,4 +16,8 @@
 		3,
 		13
 	]*/
+	"extensions":
+	[
+		"xml.dist"
+	],
 }
