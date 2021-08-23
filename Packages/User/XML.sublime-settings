@@ -18,6 +18,6 @@
 	]*/
 	"extensions":
 	[
-		"xml.dist"
+		"xml.dist",
 	],
 }

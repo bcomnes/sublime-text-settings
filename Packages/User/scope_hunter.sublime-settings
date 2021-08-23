@@ -1,0 +1,64 @@
+{
+    ///////////////////////////
+    // Dev Options
+    ///////////////////////////
+    "debug": false,
+
+    ///////////////////////////
+    // Additional Scope Info
+    ///////////////////////////
+
+    // Show the scope backtrace (ST >= 4087)
+    "context_backtrace": true,
+
+    // Show scope extent in point format
+    "extent_points": true,
+
+    // Show scope extent in line/char format
+    "extent_line_char": true,
+
+    // Show color and style at the given point
+    "styling": true,
+
+    // Show current syntax and color scheme paths
+    // (click to open if using tooltips)
+    "file_paths": true,
+
+    ///////////////////////////
+    // Highlight Configuration
+    ///////////////////////////
+
+    // Highlight scope extent in view
+    "highlight_extent": true,
+
+    // Scope to use for the color
+    "highlight_scope": "invalid",
+
+    // Highlight style (underline|solid|outline|thin_underline|squiggly|stippled)
+    "highlight_style": "outline",
+
+    ///////////////////////////
+    // Additional Options
+    ///////////////////////////
+
+    // Automatically copy scopes to clipboard
+    "clipboard": false,
+
+    // Allow multi-select scope hunting
+    "multiselect": true,
+
+    // Max region size to highlight
+    "highlight_max_size": 100,
+
+    // Use SubNotify plugin messages if installed
+    "use_sub_notify": true,
+
+    ///////////////////////////
+    // Graphics
+    ///////////////////////////
+
+    // By default, image border is calculated based on theme background, but if for
+    // some reason, it isn't sufficient in your popup, set it to any color using
+    // valid CSS for RGB, HSL, or HWB colors.
+    "image_border_color": null
+}

@@ -20,8 +20,10 @@
 	"extensions":
 	[
 		"js",
-		"jsx"
+		"jsx",
+		"ts",
+		"tsx"
 	],
-	"format_on_save": false,
+	"format_on_save": true,
 	"logging_on_view_change": false,
 }
