@@ -11,6 +11,7 @@
 			"--stdin",
 			"--fix"
 		],
+		["ts-standard", "--stdin", "--fix", "--stdin-filename", "{FILENAME}"],
 		[
 			"eslint_d",
 			"--stdin",

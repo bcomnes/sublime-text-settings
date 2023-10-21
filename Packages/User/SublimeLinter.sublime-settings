@@ -1,4 +1,11 @@
 // SublimeLinter Settings - User
 {
-  "debug": true
+  "linters": {
+        "flake8": {
+            "executable": [ "/opt/homebrew/bin/flake8" ]
+        },
+        "pycodestyle": {
+            "executable": [ "/opt/homebrew/bin/pycodestyle" ]
+        }
+    }
 }

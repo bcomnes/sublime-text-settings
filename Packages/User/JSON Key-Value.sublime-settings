@@ -1,7 +1,9 @@
 {
 	"extensions":
 	[
-		".stylelintrc",
 		"json",
+		"vsconfig",
+		".vsconfig",
+		".vsconfig-app-build",
 	],
 }

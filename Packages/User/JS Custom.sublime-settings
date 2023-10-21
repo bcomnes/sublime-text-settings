@@ -11,6 +11,7 @@
           "csjs": "scope:source.css",
           "(s) => ":  "scope:source.css",
           "html": "scope:text.html.basic",
+          "svg": "scope:text.html.basic",
           "this.html": "scope:text.html.basic",
           "createGlobalStyle": "scope:source.css"
       },
@@ -18,6 +19,8 @@
         "GraphQL": "scope:source.graphql",
         "gql": "scope:source.graphql",
         "css": "scope:source.css",
+        "html": "scope:text.html.basic",
+        "xml": "scope:text.xml",
       }
     }
   },

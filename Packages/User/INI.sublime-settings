@@ -3,5 +3,6 @@
 	[
 		".npmrc",
 		"ini.dist",
+		".sscrc",
 	],
 }
