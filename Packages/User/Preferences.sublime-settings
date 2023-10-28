@@ -118,16 +118,19 @@
 		//"subpixel_antialias",
 		//"no_round"
 	],
-	"font_size": 18,
+	"font_size": 17,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"AutoFileName",
+		"Better Bookmarks",
 		"FuzzyFilePath",
 		"Golang Build",
+		"StandardSnippets",
 		"SublimeLinter-clang",
 		"SublimeLinter-contrib-semistandard",
+		"SublimeLinter-contrib-ts-standard",
 		"SublimeLinter-eslint",
 		"Terminus",
 		"Vintage",
