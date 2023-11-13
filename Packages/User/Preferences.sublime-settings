@@ -93,7 +93,11 @@
 		".cache/",
 		"__snapshots__/",
 		"*.xcodeproj/",
-		"*.map"
+		"*.map",
+		"node_modules",
+		"yarn.lock",
+		"package-lock.json",
+		"pnpm-lock.yaml"
 	],
 	"bold_folder_labels": true,
 	"close_windows_when_empty": true,
@@ -109,7 +113,8 @@
 		".hg",
 		"CVS",
 		".env",
-		"coverage"
+		"coverage",
+		"node_modules"
 	],
 	"font_face": "SF Mono",
 	"font_options":
@@ -118,7 +123,7 @@
 		//"subpixel_antialias",
 		//"no_round"
 	],
-	"font_size": 17,
+	"font_size": 19,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -145,7 +150,12 @@
 		"*.log",
 		"node_modules",
 		"dist",
-		"*.bundle.js"
+		"build",
+		"*.bundle.js",
+		"*.app",
+		"yarn.lock",
+		"package-lock.json",
+		"pnpm-lock.yaml"
 	],
 	"open_files_in_new_window": "finder_only",
 	"show_encoding": true,

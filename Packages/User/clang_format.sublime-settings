@@ -1,4 +1,4 @@
 {
 	"binary": "/opt/homebrew/bin/clang-format",
-	"style": "File",
+	"style": "Custom",
 }

@@ -8,27 +8,22 @@
       "tags": {
           "SQL": "scope:source.sql",
           "css": "scope:source.css",
-          "csjs": "scope:source.css",
-          "(s) => ":  "scope:source.css",
           "html": "scope:text.html.basic",
-          "svg": "scope:text.html.basic",
-          "this.html": "scope:text.html.basic",
-          "createGlobalStyle": "scope:source.css"
+          "svg": "scope:text.html.basic"
       },
       "comments": {
         "GraphQL": "scope:source.graphql",
         "gql": "scope:source.graphql",
         "css": "scope:source.css",
         "html": "scope:text.html.basic",
-        "xml": "scope:text.xml",
+        "xml": "scope:text.xml"
       }
     }
   },
   "configurations":
   {
-    "Default": {},
-    "React": {"file_extensions": ["js", "jsx"], "flow_types": true, "jsx": true, "scope": "source.jsx"},
+    "Default": {"file_extensions": ["js"], "scope": "source.js"},
+    "React": {"file_extensions": ["jsx"], "flow_types": true, "jsx": true, "scope": "source.jsx"},
     "TypeScript": {"file_extensions": ["ts"], "scope": "source.ts", "typescript": true},
     "TypeScript (JSX)": {"file_extensions": ["tsx"], "jsx": true, "scope": "source.tsx", "typescript": true}}
-
 }
