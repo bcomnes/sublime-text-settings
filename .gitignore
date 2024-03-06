@@ -19,3 +19,5 @@ Package Control.ca-certs/
 /Packages/User/*
 !/Packages/User/*.sublime-settings
 !/Packages/User/brets-stuff
+
+Lib

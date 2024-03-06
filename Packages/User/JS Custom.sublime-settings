@@ -9,6 +9,7 @@
           "SQL": "scope:source.sql",
           "css": "scope:source.css",
           "html": "scope:text.html.basic",
+          "this.html": "scope:text.html.basic",
           "svg": "scope:text.html.basic"
       },
       "comments": {
