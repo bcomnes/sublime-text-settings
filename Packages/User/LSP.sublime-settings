@@ -2,4 +2,8 @@
 {
   "hover_highlight_style": "stippled",
   "semantic_highlighting": true,
+  "lsp_format_on_save": true,
+  "lsp_code_actions_on_save": {
+    "source.fixAll.eslint": true
+  },
 }

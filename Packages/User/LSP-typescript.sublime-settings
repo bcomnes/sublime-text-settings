@@ -1,0 +1,6 @@
+{
+"disabled_capabilities": {
+        "documentFormattingProvider": true,
+        "documentRangeFormattingProvider": true,
+    },
+}
